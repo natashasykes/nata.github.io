@@ -1,0 +1,36 @@
+h1 {
+    color: rgb(221, 215, 215);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    font-size: 30px;
+    font-weight: normal;
+    cursor: pointer;
+    text-shadow: 1px 1px white,
+                 2px 2px rgb(253, 240, 240);
+    color: rgba(221, 207, 207, 0.89);
+    transition: all 1s;
+    }
+    H1:hover {
+      text-shadow: 1px 1px rgb(231, 167, 167),
+                   2px 2px rgb(177, 52, 43);
+      color: rgb(184, 18, 18);
+      }
+h2{
+    color: rgb(231, 225, 225);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+p.nine { color:rgb(221, 215, 215)
+
+}
+p {
+    text-indent: 15px;
+}
+p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+    background-attachment: fixed; /* Фиксируем фон веб-страницы */
+   }
